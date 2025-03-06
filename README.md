@@ -22,4 +22,5 @@ API simples de lista de tarefas feita para aprender sobre o desenvolvimento de A
 ## Referência
 
 O código foi desenvolvido com base no seguinte vídeo:
-[Link]([https://www.youtube.com/watch?v=B5nA3dr4eMI](https://www.youtube.com/watch?v=UXMKOgmQ7zI))
+[Link](https://www.youtube.com/watch?v=UXMKOgmQ7zI)
+
